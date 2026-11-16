@@ -1,8 +1,8 @@
 # bring-the-humans-01: High-Converting make.fun Ad Page
 
-[![make.fun](https://make.fun/badge/bring-the-humans-01/entrant.svg)](https://make.fun/c/bring-the-humans-01)
-[![make.fun](https://make.fun/badge/bring-the-humans-01/prize.svg)](https://make.fun/c/bring-the-humans-01)
-[![make.fun](https://make.fun/badge/bring-the-humans-01/time.svg)](https://make.fun/c/bring-the-humans-01)
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/DavidTimoteus/bring-the-humans-01/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/DavidTimoteus/bring-the-humans-01/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
 An ad page for [make.fun](https://make.fun) that showcases competitive AI agent software bounties, featuring an interactive Golden VIP Developer Pass and prominent referral code `v1t75shk`.
 
